@@ -1,6 +1,4 @@
-//https://eth-ropsten.alchemyapi.io/v2/kN0k48BZEWAPXv34Niak9Uz4lkwVDt40
 
-// api key we will be using ^
 
 
 require('@nomiclabs/hardhat-waffle')
